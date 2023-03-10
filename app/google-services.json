@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045860204977",
+    "project_id": "testproduct-fefd0",
+    "storage_bucket": "testproduct-fefd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045860204977:android:7cbaaf3793eaa31d80bd90",
+        "android_client_info": {
+          "package_name": "com.viliusbucinskas.chessmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045860204977-4kk7rgct6k08q1t52olkfb22stf38sg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJl-EhSH09x_QaZDi8ci2I4LZ_LXJgO04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045860204977-4kk7rgct6k08q1t52olkfb22stf38sg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

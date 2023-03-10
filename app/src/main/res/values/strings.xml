@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ChessMaps</string>
+
+    <string name="google_app_api_key">AIzaSyDic3Ki5J0AUx8Ll-gpFhZVXpcsVYWmywg</string>
+
+    <string name="title_toolbar_easy_map">Select Address</string>
+    <string name="hint_search_address">Search address</string>
+
+    <string name="hint_address_type">Type</string>
+    <string name="hint_address_title">Address title</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_building_number">Building No</string>
+    <string name="hint_floor_number">Floor</string>
+    <string name="hint_door_number">Door</string>
+    <string name="hint_address_description">Description</string>
+
+    <string name="save_address">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_map">MapActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
