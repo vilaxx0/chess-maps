@@ -1,6 +1,6 @@
 # ChessMaps - Chess Board Finder
 
-A native Android mobile app developed in Kotlin and Android SDK that helps users locate public chess boards. The app uses the Google Maps API to display the locations of the chess boards. It also includes a chess clock that utilizes a WebView to render a website with chess clock functionality. Firebase was used as the backend to manage authentication and location data.
+A native Android mobile app developed in Kotlin and Android SDK as a part of the Mobile Development minor program at the Fontys university. The purpose of the application is to help users (Chess enthusiasts) locate public chess boards. The app uses the Google Maps API to display the locations of the chess boards. It also includes a chess clock that utilizes a WebView to render a website with chess clock functionality. Firebase was used as the backend to manage authentication and location data.
 
 ## Screenshots
 
@@ -51,4 +51,4 @@ LiveData was used to ensure that the app remains responsive and up-to-date with 
 
 ## Contributors
 
-This project was developed by Vilius Bučinskas If you would like to contribute to the project, please open a pull request on the GitHub repository.
+This application was developed by Vilius Bučinskas as part of an academic project, and we are not accepting contributions at this time.
